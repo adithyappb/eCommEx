@@ -22,9 +22,9 @@ Make sure you have Docker and Docker Compose installed.
 docker-compose up --build
 
 # Access the services:
-Config Service: http://localhost:8888
-Discovery Service: http://localhost:8761
-Gateway Service: http://localhost:8080
-Product Service: http://localhost:8081
-Order Service: http://localhost:8082
-User Service: http://localhost:8083
+- Config Service: http://localhost:8888
+- Discovery Service: http://localhost:8761
+- Gateway Service: http://localhost:8080
+- Product Service: http://localhost:8081
+- Order Service: http://localhost:8082
+- User Service: http://localhost:8083
