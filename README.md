@@ -1,4 +1,4 @@
-## E-Commerce Platform with Microservices Architecture
+## E-CommEx: E-Commerce Platform with Microservices Architecture
 
 # Project Overview
 
